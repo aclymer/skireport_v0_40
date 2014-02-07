@@ -1,0 +1,64 @@
+{
+    "versionLabel": "0.50",
+    "uuid": "3a2658d2-8782-49b5-beb0-382317d0856e",
+    "appKeys": {
+        "index": 0,
+        "update_time": 5,
+        "area_wind": 2,
+        "area_name": 1,
+        "weather_desc": 6,
+        "area_temps": 3,
+        "area_snowfall": 4,
+        "units": 7
+    },
+    "longName": "SkiReport",
+    "versionCode": 6,
+    "capabilities": [
+        "location"
+    ],
+    "shortName": "SkiReport",
+    "companyName": "A.Clymer",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "ICON_SETTINGS",
+                "file": "images/settings-icon.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_OK",
+                "file": "images/ok.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_CHECK_MARK",
+                "file": "images/check_mark.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_DOWN_ARROW",
+                "file": "images/down_arrowhead.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_UP_ARROW",
+                "file": "images/up_arrowhead.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BUTTON_BAR",
+                "file": "images/button_bar.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/snow.png"
+            }
+        ]
+    }
+}
